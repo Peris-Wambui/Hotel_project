@@ -1,4 +1,7 @@
-
+body
+{
+    background-color: #FAFAFA
+}
 .nav
 {
     float: right;
@@ -38,8 +41,8 @@ a
 {
     display: flex;
     justify-content: space-between;
-    margin-left: 250px;
-    margin-right: 250px;
+    margin-left: 200px;
+    margin-right: 200px;
 }
 .product
 {
@@ -48,4 +51,31 @@ a
 .how
 {
     text-align: center;
+}
+#product
+{
+    width: 90%;
+    height: 400px;
+    margin-left: 50px;
+    margin-top: 30px;
+    padding: 50px;
+    background-color: white;
+    text-align: center;
+
+}
+.img
+{
+    height: 100px;
+    margin: 30px;
+
+}
+button 
+{
+    background-color: #2549D3;
+    color: white;
+    border-radius: 5px;
+    height: 40px;
+    width: 100px;
+}
+
 }
