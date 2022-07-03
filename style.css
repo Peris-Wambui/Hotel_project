@@ -13,4 +13,24 @@ a
 .log 
 {
     margin-left: 100px;
+    font-family:Space Grotesk, Oleo Script;
+}
+.img1
+{
+    float: right;
+    height: 500px;
+    width: 800px;
+    margin-right: 100px;
+}
+.home 
+{
+    padding: 100px;
+    margin-left: 100px;
+    height: 500px;
+}
+#home {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 300px;
+    margin-right: 300px;
 }
