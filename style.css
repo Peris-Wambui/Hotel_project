@@ -34,3 +34,18 @@ a
     margin-left: 300px;
     margin-right: 300px;
 }
+.products 
+{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+.product
+{
+    margin: 100px;
+}
+.how
+{
+    text-align: center;
+}
