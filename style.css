@@ -88,16 +88,23 @@ button
     justify-content: space-between;
     margin-left: 200px;
     margin-right: 200px;g
-
 }
 .alex
 {
-    text-align: center;
+    width: ;
     width: 90%;
     height: 400px;
-    margin: 100px;
     margin-left: 50px;
     margin-top: 30px;
     padding: 50px;
     background-color: white;
+    text-align: center;
+}
+.more
+{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 200px;
+    margin-right: 200px;
+
 }
