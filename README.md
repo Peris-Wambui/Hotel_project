@@ -5,8 +5,8 @@ This is a simple landing page for real estate.
 
 
 ## Screenshot
-<img src="">
-<img src="">
+<img src="/Assest/Images/Smart house.png">
+<img src="/Assest/Images/image 4.png">
 
 ## Setup/Installation Requirements
 * Clone the repository to your computer from 
