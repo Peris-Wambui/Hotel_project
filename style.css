@@ -110,5 +110,14 @@ button
     justify-content: space-between;
     margin-left: 200px;
     margin-right: 200px;
-
+}
+#more2
+{
+    width: 90%;
+    height: 400px;
+    margin-left: 50px;
+    margin-top: 30px;
+    padding: 50px;
+    background-color: white;
+    text-align: center;
 }
