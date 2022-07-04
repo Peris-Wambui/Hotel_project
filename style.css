@@ -35,7 +35,11 @@ a
     display: flex;
     justify-content: space-between;
     margin-left: 300px;
-    margin-right: 300px;
+    margin-right: 300px
+}
+.fa 
+{
+    color: #0F298B;
 }
 .products 
 {
