@@ -1,4 +1,4 @@
-## Real Esata
+## Real Estate
 ####  By Peris Wambui
 ## Description
 This is a simple landing page for real estate.
