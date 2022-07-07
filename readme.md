@@ -10,7 +10,7 @@ This is a simple landing page for real estate.
 
 ## Setup/Installation Requirements
 * Clone the repository to your computer from 
-        https://github.com/Peris-Wambui/Hotel_project.git
+        https://github.com/Peris-Wambui/Real_Estate_project.git
 * Open the project using your preferred code editor, preferably Visual studio Code.
 * Open the project using a web browser, preferably Google Chrome.
 ## Known Bugs
